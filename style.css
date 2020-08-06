@@ -1,0 +1,16 @@
+*{
+	box-sizing:border-box;
+}
+p{
+	font-weight:700px;
+}
+#head{
+	margin:20px auto 50px auto;
+}
+.dish{
+	font-weight:700px;
+}
+.box{
+	background:#6f777d;
+	border:10px solid #fff;
+}
